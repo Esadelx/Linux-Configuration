@@ -8,7 +8,7 @@ IP address: `52.56.121.248`
 
 SSH port: `2200`
 
-URL:  ~~[http://35.178.34.134](http://35.178.34.134)~~
+Hostname: ec2-18-184-74-60.eu-central-1.compute.amazonaws.com
 
 
 # Configuration changes
