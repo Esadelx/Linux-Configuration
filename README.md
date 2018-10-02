@@ -4,16 +4,14 @@
 This project is a baseline installation of a Linux server and prepare it to host my web applications. secured my server from a number of attack vectors, installed and configure a database server, and deployed one of my existing web applications onto it.
 
 # Server details
-IP address: `52.56.121.248`
+IP address: `18.130.235.60`
 
 SSH port: `2200`
-
-Hostname: ec2-18-184-74-60.eu-central-1.compute.amazonaws.com
-
 
 # Configuration changes
 ## Add user
 Add user `grader` with command: `sudo adduser grader`
+
 
 ## Add user grader to sudo group
 Assuming your Linux distro has a `sudo` group (like Ubuntu 16.04), simply add the user to
